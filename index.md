@@ -27,7 +27,7 @@
 - [Project 5 Title](http://example.com/)
 -->
 ---
-
+[Resume](/pdf/SandraResume.pdf)
 
 
 
